@@ -36,5 +36,5 @@ PinterestMenu(
 
 # Construido con 🛠️
   - [Flutter](https://flutter.dev/ "flutter")
-  - [Visual Stuido Code](https://code.visualstudio.com/ "Visual Stuido Code")
+  - [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")
   - [unDraw](https://undraw.co/ "unDraw")
